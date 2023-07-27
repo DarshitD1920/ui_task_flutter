@@ -2,6 +2,8 @@
 
 flutter task project
 
+Flutter Version: 3.10.5
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
