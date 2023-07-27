@@ -1,0 +1,34 @@
+name: uitask
+description: flutter task project
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.3 <4.0.0'
+
+
+
+# flutter version: 3.10.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.5
+  flutter_svg: ^2.0.7
+  google_fonts: ^5.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.2
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/svg/
+    - assets/png/
+
